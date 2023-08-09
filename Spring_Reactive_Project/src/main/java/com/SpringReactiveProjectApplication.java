@@ -10,4 +10,9 @@ public class SpringReactiveProjectApplication {
 		SpringApplication.run(SpringReactiveProjectApplication.class, args);
 	}
 
+	/*
+	 *	Dependencies: Spring Reactive Web
+	 * 	Nothing is here, everything are in test/java/com
+	 */
+
 }
